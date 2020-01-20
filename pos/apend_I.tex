@@ -1,0 +1,27 @@
+\chapter{Hiperparâmetros}
+\label{apend:1}
+
+\begin{table*}[ht]
+\centering
+\caption{Hiperparâmetros para o algoritmo PPO e módulo de motivação intrínseca.}
+\label{tab:hiperparameters} 
+\begin{tabular}{|c|c|}
+\hline Hiperparâmetro & Valor \\
+\hline Iterações (em cada ambiente) & $3x10^7$ \\
+\hline Neurônios nas camadas escondidas & $128$ \\ 
+\hline Taxa de aprendizado do modelo de valor & $10^{-4}$ \\
+\hline Taxa de aprendizado do modelo da política & $10^{-5}$ \\
+\hline Taxa de aprendizado do modelo de futuro & $10^{-5}$ \\
+\hline Coeficiente de entropia & $0.01$ \\ 
+\hline Recompensa intrínseca máxima & $1$ \\
+\hline Tamanho do episódio & $2048$ \\ 
+\hline Tamanho do lote & $32$ \\ 
+\hline Épocas & $10$ \\ 
+\hline $\gamma$ & $0.95$ \\ 
+\hline $\epsilon$ (PPO) & $0.3$ \\
+\hline $\lambda$ (GAE) & $0.95$ \\
+\hline $\eta$ (recompensa intrínseca) & $1$ \\
+\hline Otimizador & Adam \\
+\hline 
+\end{tabular} 
+\end{table*}
