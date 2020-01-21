@@ -10,24 +10,17 @@ The code for this study is available [here](https://github.com/bryanlincoln/intr
 
 ### Learned policies
 
-![](fig/preview/pick.gif?raw=true | width=100)
-![](fig/preview/push.gif?raw=true | width=100)
-![](fig/preview/reach.gif?raw=true | width=100)
+
+<img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/pick.gif" width="300" height="200"> <img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/push.gif" width="300" height="200"> <img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/reach.gif" width="250" height="200">
 
 ### Success Rate Charts
 
-![](fig/preview/pick.png?raw=true | width=100)
-![](fig/preview/push.png?raw=true | width=100)
-![](fig/preview/reach.png?raw=true | width=100)
+<img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/pick.png" width="280" height="200"> <img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/push.png" width="280" height="200"> <img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/reach.png" width="280" height="200">
 
 ### Entropy Charts
 
-![](fig/preview/pick_ent.png?raw=true | width=100)
-![](fig/preview/push_ent.png?raw=true | width=100)
-![](fig/preview/reach_ent.png?raw=true | width=100)
+<img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/pick_ent.png" width="280" height="200"> <img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/push_ent.png" width="280" height="200"> <img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/reach_ent.png" width="280" height="200">
 
 ### Intrinsic Reward Charts
 
-![](fig/preview/pick_int.png?raw=true | width=100)
-![](fig/preview/push_int.png?raw=true | width=100)
-![](fig/preview/reach_int.png?raw=true | width=100)
+<img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/pick_int.png" width="280" height="200"> <img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/push_int.png" width="280" height="200"> <img src="https://github.com/bryanlincoln/undergraduate-thesis/blob/master/fig/preview/reach_int.png" width="280" height="200">
