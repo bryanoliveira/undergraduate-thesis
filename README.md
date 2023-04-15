@@ -4,8 +4,6 @@ Machine Learning Algorithms have become increasingly efficient at solving comple
 
 To read the whole analysis, [click here](https://github.com/bryanlincoln/undergraduate-thesis/blob/master/Monografia.pdf) (Portuguese).
 
-The code for this study is available [here](https://github.com/bryanlincoln/intrinsic-motivation).
-
 ## Results
 
 ### Learned policies
